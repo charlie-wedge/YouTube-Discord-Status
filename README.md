@@ -1,8 +1,6 @@
 # YouTube Discord Status
 
 Displays the current YouTube video playing onto your Discord profile as a rich presence.
-![Example](Example.png)
-
 
 **Before you run:**
 > *You need to enter a Google API Key into the index.js script:*
@@ -48,4 +46,8 @@ If you haven't installed Node before, you can do so here:
 
 > Leave the cmd/terminal window open in the background to allow this script to run in the background. The script will only recognise YouTube tabs in Google Chrome - other web browsers are not yet supported. This script may or may not have problems in the web version of Discord.
 
+---------------------
 
+**Example:**
+
+![Example](Example.png)
