@@ -1,0 +1,17 @@
+{
+  "name": "youtube-discord-status",
+  "version": "1.0.0",
+  "description": "Display your current YouTube video onto your Discord status",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "author": "Charlie Wedge",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rpc": "^4.0.1",
+    "get-chrome-tabs": "^1.0.0",
+    "request": "^2.88.2"
+  }
+}
